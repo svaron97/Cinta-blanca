@@ -1,0 +1,101 @@
+*{
+
+    background-color: rgb(16, 28, 204);
+}
+
+.padre{
+
+    width: 1500px;
+    height: 700px;
+    border: solid 2px white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+
+.hijo1{
+
+    width: 50%;
+    height: 70%;
+    border: 2px solid beige;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+
+
+
+}
+.hijo2{
+
+    width: 500px;
+    height: 70%;
+    border: 2px solid beige;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+
+}
+.hijocolumn1{
+
+width: 30%;
+height: 50%;
+border: 2px solid beige;
+display: flex;
+align-items: center;
+}
+.hijocolumn2{
+
+width: 30%;
+height: 50%;
+border: 2px solid beige;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.hijocolumn3{
+
+    width: 30%;
+    height: 50%;
+    border: 2px solid beige;
+    display: flex;
+    align-items: center;
+    }
+
+.hijorow1{
+
+    width: 50%;
+    height: 30%;
+    border: 2px solid beige;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.hijorow2{
+
+    width: 50%;
+    height: 30%;
+    border: 2px solid beige;
+    display: flex;
+    align-items: center;
+}
+.hijorow3{
+
+    width: 50%;
+    height: 30%;
+    border: 2px solid beige;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.hijoa{
+    width: 50%;
+    height: 30%;
+    border: 2px solid beige;
+  
+}
+

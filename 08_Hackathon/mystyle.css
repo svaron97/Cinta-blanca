@@ -1,0 +1,43 @@
+.tituloprincipal{
+    
+    font-size:  4.25rem;
+    color: gray
+}
+   
+    
+    
+.padre{
+    
+    justify-content: space-evenly;
+    background-color:#EBE4D1
+}
+
+.tituloprim{
+
+    margin-left: 184px;
+    color: white;
+}
+
+.tituloemp{
+    margin-left: 100px;
+    color: white;
+}
+
+.estilo{
+        background-color:white      ;
+        
+        /* width: 500px; */
+        height: 500px;
+    
+}
+
+.plomero{
+    width: 251px;
+}
+.backtarjetas{
+background-color:#EBE4D1;
+}
+.usuarios{
+
+    width: 500px
+}

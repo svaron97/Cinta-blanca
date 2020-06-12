@@ -1,0 +1,61 @@
+*{
+    background-color: white;
+}
+
+
+.banner1{
+    width: 30px;
+    padding-right: 20px;
+}
+
+.banner2{
+    padding-top: 5px;
+    width: 32px;
+}
+
+.parteup{
+    display: inline-block;
+}
+
+.up {
+        margin-left: 1240px;
+
+}
+
+.mid{
+    
+     margin: 170px 250px 112px 451px;
+}
+
+.logo{
+       margin-left: 183px;
+}
+
+.buscador{
+    
+    margin-left: 229px;
+    margin-right: 200px;
+    
+}
+
+.boton1{
+
+    margin: 35px 0 10px 183px;
+  }
+.correo{
+
+    padding-right: 20px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    color: black;
+    
+   
+
+}
+.imagenes{
+
+    padding-right: 20px;
+    text-decoration: none;
+    color: black;
+}
+

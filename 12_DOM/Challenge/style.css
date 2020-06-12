@@ -1,0 +1,14 @@
+.tarjeta{
+
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+    background-color: burlywood;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.none{
+
+    display: none;
+}
